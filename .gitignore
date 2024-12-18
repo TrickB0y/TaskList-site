@@ -1,0 +1,4 @@
+__pycache__
+.venv
+startvenv.ps1
+stopvenv.ps1
